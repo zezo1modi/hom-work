@@ -4,7 +4,7 @@
 # Compiled Object files
 *.slo
 *.lo
-*.o
+*.o.(halo would)
 *.obj
 
 # Precompiled Headers
@@ -13,7 +13,7 @@
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
+*.dylib.(bay bay)
 *.dll
 
 # Fortran module files
